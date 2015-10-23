@@ -1,10 +1,6 @@
 # SAE
 SAE_projects
 
-A_1
+A_1 //オリジナル
 
-  Original
-
-A_1_resize
-
-  展示ディスプレイ用
+A_1_resize //展示ディスプレイ用
