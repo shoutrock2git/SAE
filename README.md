@@ -2,7 +2,9 @@
 SAE_projects
 
 A_1
- Original
+
+  Original
 
 A_1_resize
- 展示ディスプレイ用
+
+  展示ディスプレイ用
